@@ -18,8 +18,9 @@ Sendo o banco de dados utilizado Firebase.
 Para a analise do banco de dados, pode enviar um Email solicitando o acesso ao firebase.
 
 #### Dados para Teste
-![DER](banco.txt)
+[Arquivo](banco.txt)
 
-
+#### Apicativo compilado
+[Apk](app.apk)
 
 PRONTO!
