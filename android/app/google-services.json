@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099400817829",
+    "project_id": "clipescola-a1489",
+    "storage_bucket": "clipescola-a1489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099400817829:android:15bf6958e7d2a6b0bab14c",
+        "android_client_info": {
+          "package_name": "com.example.teste_clipescola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099400817829-uulitto3p1nd2edmh5kh4ec5hm6qs3i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2JosBLRRPJlxqwiBN6V1hz_pirYGn4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099400817829-uulitto3p1nd2edmh5kh4ec5hm6qs3i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
