@@ -1,16 +1,25 @@
-# teste_clipescola
+# Teste Clip Escola
 
-A new Flutter project.
+### Autor
 
-## Getting Started
+ - Desenvolvedor: Alexandre Silva
+ - Email: alexandrebmx5@gmail.com
 
-This project is a starting point for a Flutter application.
+#### Frameworks
 
-A few resources to get you started if this is your first Flutter project:
+ - [Dart 2.13.0](https://dart.dev/)
+ - [Flutter 2.2.0](https://flutter.dev/)
+ - [Guia de estilo código em flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Nota
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sendo o banco de dados utilizado Firebase.
+
+Para a analise do banco de dados, pode enviar um Email solicitando o acesso ao firebase.
+
+#### Dados para Teste
+![DER](TesteClipEscola/banco.txt)
+
+
+
+PRONTO!
