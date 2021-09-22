@@ -17,19 +17,9 @@ Sendo o banco de dados utilizado Firebase.
 
 Para a analise do banco de dados, pode enviar um Email solicitando o acesso ao firebase.
 
-Dados para Teste:
+#### Dados para Teste
+![DER](TesteClipEscola/banco.txt)
 
-TABELA MEDIA
-matricula  disciplina periodo media
-2006010001     7        27     -1
-
-TABELA CADAVALS
-Codigo   AnoLetivo  Curso  Turma  Disciplina  Periodo  Peso  Tipo
-1          2016       103    0        7         21      2      2
-
-TABELA NOTAS
-MATRICULA  DISCIPLINA AVALIACAO  NOTA
-2006010001     1          1      8,6
 
 
 PRONTO!
